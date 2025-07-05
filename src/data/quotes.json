@@ -1,0 +1,28 @@
+{
+  "quotes": [
+    {
+      "topic": "motivation",
+      "quotes": [
+        "The only way to do great work is to love what you do. - Steve Jobs",
+        "Believe you can and you're halfway there. - Theodore Roosevelt",
+        "Your time is limited, don't waste it living someone else's life. - Steve Jobs"
+      ]
+    },
+    {
+      "topic": "success",
+      "quotes": [
+        "Success is not final, failure is not fatal: It is the courage to continue that counts. - Winston Churchill",
+        "Success usually comes to those who are too busy to be looking for it. - Henry David Thoreau",
+        "The secret of success is to do the common thing uncommonly well. - John D. Rockefeller"
+      ]
+    },
+    {
+      "topic": "life",
+      "quotes": [
+        "Life is what happens when you're busy making other plans. - John Lennon",
+        "In the end, it's not the years in your life that count. It's the life in your years. - Abraham Lincoln",
+        "Life is really simple, but we insist on making it complicated. - Confucius"
+      ]
+    }
+  ]
+}

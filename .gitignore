@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -58,4 +58,4 @@ out/
 # System files
 .DS_Store
 Thumbs.db
->>>>>>> 2c2e8fea1f0eca5e0812d68cf8d4d37763014caa
+
