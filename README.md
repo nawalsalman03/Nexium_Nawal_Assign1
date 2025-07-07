@@ -1,6 +1,6 @@
 # Quote Generator – Nexium Assignment 1
 
-This is a basic quote generator built using **Next.js**, **TypeScript**, and **ShadCN UI**. The app allows users to select a topic and view quotes related to it. A background video and loading skeleton were added to improve the UI.
+This is a basic quote generator built using **Next.js**, **TypeScript**, and **ShadCN UI**. The app allows users to select a topic and view quotes related to it. A background video was added to improve the UI.
 
 ---
 
@@ -17,20 +17,55 @@ This is a basic quote generator built using **Next.js**, **TypeScript**, and **S
 
 1. Clone the repo:
 
-git clone https://github.com/nawalsalman03/Nexium_Nawal_Assign1.git
-
-2. Go to project directory
 ```bash
-cd Nexium_Nawal_Assign1
-
-3. 
-4. 
-5. 
-
-
-
-
+git clone https://github.com/nawalsalman03/Nexium_Nawal_Assign1.git
+```
 
 2. Go to the project directory:
 
+```bash
 cd Nexium_Nawal_Assign1
+```
+
+3. Install dependencies:
+
+```bash
+npm install
+```
+
+4. Start the development server:
+
+```bash
+npm run dev
+```
+
+5. Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
+
+---
+
+## Project Structure
+
+```
+public/               → static files like background video
+src/
+├── app/              → Main Next.js app (page.tsx)
+├── components/       → QuoteForm, QuoteList, QuoteSkeleton
+├── lib/              → Quote topics and mock data
+styles/               → Global styles and variables
+```
+
+---
+
+## Notes
+
+- Quotes are fetched locally from a predefined set.
+- Background video (`public/spacebg.mp4`) loops and auto-plays.
+- Skeleton shimmer appears while quotes load using `QuoteSkeleton.tsx`.
+- UI is styled using **ShadCN** with custom CSS variables.
+
+---
+
+## Author
+
+Made by **Nawal Salman**  
+GitHub: [@nawalsalman03](https://github.com/nawalsalman03)
