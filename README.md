@@ -60,6 +60,7 @@ styles/               → Global styles and variables
 
 - Quotes are fetched locally from a predefined set.
 - Background video (`public/spacebg.mp4`) loops and auto-plays.
+- Designed as part of the Nexium internship assignment.
 - UI is styled using **ShadCN** with custom CSS variables.
 
 ---
