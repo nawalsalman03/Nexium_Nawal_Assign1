@@ -7,10 +7,9 @@ This is a basic quote generator built using **Next.js**, **TypeScript**, and **S
 ## Features
 
 - Quotes by topic (like motivation, success, life)
-- Loading skeleton while quotes appear
 - Background video for visual appeal
 - Clean UI with ShadCN components
-- Responsive and mobile-friendly
+- Responsive and user-friendly
 
 ---
 
@@ -18,5 +17,20 @@ This is a basic quote generator built using **Next.js**, **TypeScript**, and **S
 
 1. Clone the repo:
 
-```bash
 git clone https://github.com/nawalsalman03/Nexium_Nawal_Assign1.git
+
+2. Go to project directory
+```bash
+cd Nexium_Nawal_Assign1
+
+3. 
+4. 
+5. 
+
+
+
+
+
+2. Go to the project directory:
+
+cd Nexium_Nawal_Assign1
