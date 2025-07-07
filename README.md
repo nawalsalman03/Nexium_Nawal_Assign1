@@ -14,9 +14,11 @@ This is a basic quote generator built using **Next.js**, **TypeScript**, and **S
 ---
 
 ## 🌐 Live Demo
-```bash
+
 Check out the deployed project here:
+```bash
 https://nexium-nawal-assign1.vercel.app/
+```
 
 ## How to Run
 
